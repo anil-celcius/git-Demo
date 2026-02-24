@@ -1,1 +1,11 @@
 1 first akk
+
+git restore --staged 1.txt
+
+git checkout -- 1.txt
+
+git checkout -f
+
+git remote add origin https://github.com/anil-celcius/git-Demo.git
+
+git remote -v
