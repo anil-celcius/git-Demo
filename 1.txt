@@ -2,10 +2,15 @@
 
 git restore --staged 1.txt
 
-git checkout -- 1.txt
+git checkout -- 1.txt ->undo changes in perticular file	
 
-git checkout -f
+git checkout -f ->undo changes
 
 git remote add origin https://github.com/anil-celcius/git-Demo.git
 
-git remote -v
+git remote -v -> to check remote
+
+git push -u origin main -> to push a code 
+
+git config --global alias.ci commit -> fro shorting a command 
+
