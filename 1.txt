@@ -12,5 +12,5 @@ git remote -v -> to check remote
 
 git push -u origin main -> to push a code 
 
-git config --global alias.ci commit -> fro shorting a command 
+git config --global alias.ci commit -> fro shorting a command   kk
 
