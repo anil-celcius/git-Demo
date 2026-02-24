@@ -1,4 +1,4 @@
-1 first akk
+1 
 
 git restore --staged 1.txt
 
@@ -14,3 +14,11 @@ git push -u origin main -> to push a code
 
 git config --global alias.ci commit -> fro shorting a command   kk
 
+
+git checkuot master
+
+git checkout <branch name>
+
+git checkout -b <branch name>
+
+git checkout 
